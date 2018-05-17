@@ -13,7 +13,7 @@
 // the available_markets are missing. Therefore it is marked as optional in this source code.
 
 
-declare namespace SpotifyApi {
+declare module "spotify_api" {
 
     //
     // Parameter Objects for searching
