@@ -1,4 +1,5 @@
-"bundleDependencies": false,
+{
+  "bundleDependencies": false,
   "dependencies": {},
   "deprecated": false,
   "description": "TypeScript definitions for The Spotify Web API (including changes March 29th 2016)",
@@ -14,3 +15,4 @@
   "typeScriptVersion": "2.0",
   "typesPublisherContentHash": "6711d0c09a296e542735625a0598e905cc50925bf4f8833791a2829bf6c0ed40",
   "version": "0.0.0"
+}
